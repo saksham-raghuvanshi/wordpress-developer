@@ -9,3 +9,4 @@
 [12-Sep-2023 12:34:16 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\HP\Local Sites\wordpress-dev\app\public\experiment.php on line 7
 [12-Sep-2023 12:34:16 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\HP\Local Sites\wordpress-dev\app\public\experiment.php on line 7
 [12-Sep-2023 12:34:16 UTC] PHP Parse error:  syntax error, unexpected token ">" in C:\Users\HP\Local Sites\wordpress-dev\app\public\experiment.php on line 7
+[12-Sep-2023 12:56:13 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\HP\Local Sites\wordpress-dev\app\public\wp-includes\class-wp-customize-widgets.php on line 905
