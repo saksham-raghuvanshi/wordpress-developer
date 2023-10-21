@@ -1,0 +1,13 @@
+//All other file template file this fill is different from others this private file (behind the scene file)
+//add_action(firstargument,secondargument)
+//firstargument tell us what type of instruction you want to give
+//wp_enqueue_scripts
+
+
+add_action(): This function is used to register a callback function that should be executed when a specific action or hook is triggered. For example:
+add_action('wp_footer', 'my_custom_function');
+
+In the example above, the my_custom_function will be executed when the wp_footer action is triggered, typically at the bottom of a WordPress page.
+
+In the example above, the my_custom_function will be executed when the wp_footer action is triggered, typically at the bottom of a WordPress page.
+do_action('my_custom_action');

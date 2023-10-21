@@ -1,0 +1,7 @@
+//with wp_head any plugin css can link with head section for that we make functions.php file 
+
+
+close body and html tag put in footer.php and also add <?php wp_footer();?> script it like javascript added in body tag 
+</body>
+</html>
+    
